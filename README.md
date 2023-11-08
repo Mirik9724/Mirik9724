@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mirik9724
 - 👀 I’m interested minecraft
 - 🌱 I’m currently learning in 7 class
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on bichburger mod for Minecraft 
 - 📫 How to reach me https://t.me/mirik123465
 
 <!---
