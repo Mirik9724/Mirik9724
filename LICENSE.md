@@ -4,7 +4,7 @@
 
 3 Download any project files you agree to the terms.
 
-4 It is prohibited to change, modify or adapt the source code of project.
+4 It is prohibited to change, modify or adapt the source files of project.
 
 5 It is prohibited to distribute modified or adapted versions of the project without obtaining the appropriate permission from the owner.
 
