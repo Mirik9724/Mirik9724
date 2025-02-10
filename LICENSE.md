@@ -1,4 +1,4 @@
-1. Distribution of the project without the owner's consent is prohibited.
+
 
 2. All rights reserved. The project may become public domain, but without the possibility of monetization.
 
