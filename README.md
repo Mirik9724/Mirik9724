@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mirik9724
 - 👀 I’m interested minecraft
-- 🌱 I’m currently learning in 8 class
+- 🌱 I’m currently learning in 9 class
 - 💻 I’m looking to collaborate on bichburger mod for Minecraft 
 - 📫 How to reach me https://t.me/mirik123465 and write me "I'm based on the project from GitHub"
 - ⌨️ My favorite programming languages: Python, Kotlin, C++ (for Arduino)
